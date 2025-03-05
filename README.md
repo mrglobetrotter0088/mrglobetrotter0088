@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mrglobetrotter0088
 - 👀 I’m interested in probability, statistics, optimization and ML.
 - 🌱 I’m currently learning optimization.
-- 💞️ I’m looking to collaborate on start-ups to help them growing!
 <!--- 📫 How to reach me ... --->
 
 <!---
